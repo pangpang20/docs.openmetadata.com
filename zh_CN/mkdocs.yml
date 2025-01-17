@@ -1,0 +1,14 @@
+site_name: 开源openmetadata用户参考
+use_directory_urls: false
+
+nav:
+- 开源openmetadata介绍: index.md
+- 相关介绍:
+  - openmetadata介绍: openmetadata/intro-openmetadata.md
+  - GaussDB介绍:  gaussdb/intro-gaussdb.md
+- 在华为云部署项目: deployment/intro-deployment.md
+- 项目开发心得体会: experience/intro-experience.md
+
+theme: material
+plugins:
+    - search
